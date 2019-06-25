@@ -1,7 +1,7 @@
-![Project Preview](https://ibb.co/ggDxNSs)
-![Project Preview](https://ibb.co/8DvqxQM)
+![Project Preview](https://i.ibb.co/f0Csfkm/Screenshot-1.png)
+![Project Preview](https://i.ibb.co/mCZkyPJ/Screenshot-2.png)
 
-<h1 align="center">Yii 2 Basic Project Template</h1>
+<h1 align="center">Yii 2 Basic Project - Simple Blog</h1>
 
 Yii 2 Basic Project Template is a skeleton [Yii 2](http://www.yiiframework.com/) application best for
 rapidly creating small projects.
